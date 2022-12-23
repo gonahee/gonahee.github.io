@@ -98,9 +98,13 @@ analytics:
 
 # Site Author
 author:
-  name: "Gonahee" # 블로그 닉네임
+  locale : "ko-KR"
+  title  : "정리 습관 들이려는 개발자 Blog"
+  title_separator : "-"
+  name   : "Gonahee" # 블로그 닉네임
+  masthead_title   : "정리하는 개발자"
   avatar: "/assets/images/lion-remove.png" # 블로그 프로필 사진
-  bio              : " 배운 내용 정리하는 초보 RTL Engineer Blog ..! "
+  bio              : " 기록이 자산이다!! 업데이트 자주해보자.. "
   location         : "Seoul, Korea"
 
   links: # 사이트 링크
