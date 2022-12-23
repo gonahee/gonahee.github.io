@@ -17,9 +17,8 @@ main:
 categories:
   - title: "FPGA"
     url: /categories/fpga/
-#  - title: "System Verilog & UVM"
-#    url: /categories/sv-uvm/
-#  - title: "RTL"
-#    url: /categories/rtl/
-#  - title: "TBU .. "
-#    url: /categories/tbu/
+  - title: "System Verilog & UVM"
+    url: /categories/sv-uvm/
+  - title: "RTL"
+    url: /categories/rtl/
+

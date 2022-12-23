@@ -3,7 +3,7 @@ title: "FPGA"
 layout: category
 permalink: /categories/fpga/
 author_profile: true
-taxonomy: Categories1
+taxonomy: FPGA
 sidebar:
   nav: "FPGA"
 ---
