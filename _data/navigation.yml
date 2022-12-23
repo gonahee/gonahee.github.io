@@ -6,9 +6,6 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "GitHub"
-    url: https://github.com/gonahee
-
   # - title: "Projects"
   #   url: /projects/
 
@@ -20,9 +17,9 @@ main:
 categories:
   - title: "FPGA"
     url: /categories/fpga/
-  - title: "System Verilog & UVM"
-    url: /categories/sv-uvm/
-  - title: "RTL"
-    url: /categories/rtl/
-  - title: "Git"
-    url: /categories/git/
+#  - title: "System Verilog & UVM"
+#    url: /categories/sv-uvm/
+#  - title: "RTL"
+#    url: /categories/rtl/
+#  - title: "TBU .. "
+#    url: /categories/tbu/
