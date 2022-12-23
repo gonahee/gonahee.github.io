@@ -99,10 +99,10 @@ analytics:
 # Site Author
 author:
   name: "Gonahee" # 블로그 닉네임
-  avatar: # "/assets/images/meee.png" # 블로그 프로필 사진
-  #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
-  # email            : "youremailhere@xxxxxx.com"
+  avatar: "/assets/images/lion-remove.png" # 블로그 프로필 사진
+  bio              : " 배운 내용 정리하는 초보 RTL Engineer Blog ..! "
+  locale           : "ko-KR"
+  email            : "ygh527@naver.com"
 
   links: # 사이트 링크
 #     - label: "Email"
